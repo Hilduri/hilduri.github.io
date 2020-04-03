@@ -1,0 +1,5 @@
+<link href="https://fonts.googleapis.com/css?family=Indie+Flower|Merienda|Spicy+Rice|Yanone+Kaffeesatz&display=swap" rel="stylesheet">
+font-family: 'Indie Flower', cursive;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-family: 'Merienda', cursive;
+font-family: 'Spicy Rice', cursive;
